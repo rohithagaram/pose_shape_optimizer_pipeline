@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BundleAdjuster",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "singleViewPoseAdjuster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-singleViewPoseAdjuster-Debug-fb0d46c56c498e4352de.json",
+					"name" : "singleViewPoseAdjuster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "singleViewShapeAdjuster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-singleViewShapeAdjuster-Debug-10bf09ebe3df9d0f72d0.json",
+					"name" : "singleViewShapeAdjuster",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Manasa/Documents/pose_shape_optimizer_pipeline/ceres/out/build/x64-Debug",
+		"source" : "C:/Users/Manasa/Documents/pose_shape_optimizer_pipeline/ceres"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

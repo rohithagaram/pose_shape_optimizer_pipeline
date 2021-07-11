@@ -1,0 +1,4 @@
+C:/Users/Manasa/Documents/pose_shape_optimizer_pipeline/ceres/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Manasa/Documents/pose_shape_optimizer_pipeline/ceres/out/build/x64-Debug/CMakeFiles/singleViewShapeAdjuster.dir
+C:/Users/Manasa/Documents/pose_shape_optimizer_pipeline/ceres/out/build/x64-Debug/CMakeFiles/singleViewPoseAdjuster.dir
+C:/Users/Manasa/Documents/pose_shape_optimizer_pipeline/ceres/out/build/x64-Debug/CMakeFiles/edit_cache.dir

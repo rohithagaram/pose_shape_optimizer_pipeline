@@ -1,0 +1,5 @@
+# ninja log v5
+0	1524	6476507016175785	CMakeFiles/singleViewPoseAdjuster.dir/singleViewPoseAdjuster.cc.obj	32190ffd77041352
+0	1588	6476502644945324	CMakeFiles/singleViewShapeAdjuster.dir/singleViewShapeAdjuster.cc.obj	9d8ed14603542170
+1526	1740	6476507017991242	singleViewPoseAdjuster.exe	e90e70d1f33b4b76
+1588	1913	6476502648116929	singleViewShapeAdjuster.exe	20397ff368cd388e
